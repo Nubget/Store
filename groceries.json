@@ -1,0 +1,87 @@
+{
+  "groceries": [
+    {
+      "honey": {
+        "name": "Golden Blossom Pure Honey",
+        "price": "$8.99",
+        "onSale": true,
+        "salePrice": "$7.99",
+        "quantity": "24 oz",
+        "pricePerUnit": "$0.33/oz",
+        "image": "https://securecontent.shoprite.com/api/Images/v7/products/51301/dimensions/144x144_padded/jpg"
+      },
+      "sugar": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "coconutWater": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "jam": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "creamyPB": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "crunchyPB": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "jello": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "pudding": {
+        "name": "",
+        "price": "",
+        "onSale": true,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      },
+      "cocoaPowder": {
+        "name": "",
+        "price": "",
+        "onSale": false,
+        "salePrice": "",
+        "quantity": "",
+        "pricePerUnit": "",
+        "image": ""
+      }
+    }
+  ]
+}
